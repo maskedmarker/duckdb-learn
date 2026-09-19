@@ -1,0 +1,9 @@
+{
+  "events": [
+    {"ts": "2024-01-15 09:30:00", "user": "alice", "action": "login"},
+    {"ts": "2024-01-15 09:31:12", "user": "alice", "action": "view_item", "item": "Widget A"},
+    {"ts": "2024-01-15 09:35:44", "user": "bob",   "action": "login"},
+    {"ts": "2024-01-15 09:36:01", "user": "bob",   "action": "view_item", "item": "Gadget X"},
+    {"ts": "2024-01-15 09:40:10", "user": "alice", "action": "purchase", "amount": 39.98}
+  ]
+}
